@@ -7,3 +7,11 @@ Ressources for the READMEs of my other repos
 Do not try to clone, I perform destructive branch changes regularly to keep a redundant free and linear history.
 
 Inspired by [https://github.com/jglovier/gifs](https://github.com/jglovier/gifs)
+
+
+### Infos
+
+Some GitHub-related markdown infos so I don't have to look them up later:
+- Max GIF size
+  - External: 10MB
+  - GitHub hosted: 30MB
