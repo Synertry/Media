@@ -2,7 +2,8 @@
 
 # Synertry GitHub Media Ressources
 
-Ressources for the READMEs of my other repos
+Mainly ressources for the READMEs of my other repos.
+It does however also store medias for issues, commment pr, etc.
 
 Do not try to clone, I perform destructive branch changes regularly to keep a redundant free and linear history.
 
